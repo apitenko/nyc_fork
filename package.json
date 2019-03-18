@@ -1,6 +1,9 @@
 {
   "name": "nyc",
-  "version": "13.3.0-2",
+  "version": "13.3.0-3",
+  "publishConfig": {
+    "registry": "https://maven.vpn.etonreve.com/api/npm/npm/"
+  },
   "description": "the Istanbul command line interface",
   "main": "index.js",
   "scripts": {
